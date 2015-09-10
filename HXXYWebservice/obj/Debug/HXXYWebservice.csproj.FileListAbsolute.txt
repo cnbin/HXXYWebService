@@ -1,0 +1,6 @@
+C:\Users\John123\Documents\Visual Studio 2013\Projects\HXXYWebservice\HXXYWebservice\bin\HXXYWebservice.dll.config
+C:\Users\John123\Documents\Visual Studio 2013\Projects\HXXYWebservice\HXXYWebservice\bin\HXXYWebservice.dll
+C:\Users\John123\Documents\Visual Studio 2013\Projects\HXXYWebservice\HXXYWebservice\bin\HXXYWebservice.pdb
+C:\Users\John123\Documents\Visual Studio 2013\Projects\HXXYWebservice\HXXYWebservice\obj\Debug\HXXYWebservice.csprojResolveAssemblyReference.cache
+C:\Users\John123\Documents\Visual Studio 2013\Projects\HXXYWebservice\HXXYWebservice\obj\Debug\HXXYWebservice.dll
+C:\Users\John123\Documents\Visual Studio 2013\Projects\HXXYWebservice\HXXYWebservice\obj\Debug\HXXYWebservice.pdb
